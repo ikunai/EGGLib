@@ -1,4 +1,4 @@
 EGGLib
 ======
 
-Simple wrapper for web between DB
+Simple wrapper for web between DB Application

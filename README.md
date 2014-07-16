@@ -1,4 +1,4 @@
-EbbLib
+EGGLib
 ======
 
 Simple wrapper for web between DB
